@@ -1,0 +1,15 @@
+# ambiente
+.venv/
+__pycache__/
+*.pyc
+
+# dados (NÃO subir dataset do kaggle)
+data/
+*.csv
+
+# jupyter
+.ipynb_checkpoints/
+
+# sistema
+.DS_Store
+Thumbs.db
