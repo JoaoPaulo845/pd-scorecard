@@ -24,7 +24,7 @@ A Ideia é do modelo é sinalizar no topo os clientes com maior risco de inadimp
 
 ---
 
-## 🧭 Estrutura do projeto
+## Estrutura do projeto
 Sugestão (ajuste se seus nomes forem diferentes):
 
 - `notebooks/01_eda.ipynb`  
@@ -38,7 +38,7 @@ Sugestão (ajuste se seus nomes forem diferentes):
 
 ---
 
-## ⚙️ Como rodar
+## Como rodar
 ### 1) Dados
 O dataset é o **GiveMeSomeCredit** usado em competições do Kaggle.  
 Baixe e coloque em `data/` como `cs-training.csv`.
