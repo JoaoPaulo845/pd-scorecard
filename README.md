@@ -52,3 +52,4 @@ pip install -r requirements.txt
 ### 3) Execute os Notebooks.
 
 Execute os Notebooks na ordem sugerida pelos títulos (crescente).
+
